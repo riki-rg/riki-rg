@@ -84,7 +84,7 @@ Currently building full-stack applications with **React + Laravel** integration.
 
 ## 🎮 Contribution Journey
 
-![Super Mario collecting contributions](https://raw.githubusercontent.com/riki-rg/riki-rg/output/github-contribution-grid-mario.svg)
+![Snake collecting contributions](https://raw.githubusercontent.com/riki-rg/riki-rg/output/github-contribution-grid-snake.svg)
 
 ---
 
